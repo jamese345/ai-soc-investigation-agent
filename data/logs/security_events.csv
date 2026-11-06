@@ -1,0 +1,8 @@
+timestamp,src_ip,username,event_type,status,failed_attempts
+2026-11-06T09:42:11,185.10.10.20,admin,login,failed,12
+2026-11-06T09:43:02,185.10.10.20,admin,login,failed,8
+2026-11-06T09:44:18,185.10.10.20,admin,login,success,0
+2026-11-06T09:50:31,10.0.0.15,john,login,success,0
+2026-11-06T10:01:22,185.10.10.20,admin,session,started,0
+2026-11-06T10:05:44,10.0.0.20,alice,login,success,0
+2026-11-06T10:08:12,185.10.10.20,admin,login,failed,15
